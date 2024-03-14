@@ -37,7 +37,7 @@ class Queue:
         """Returns the number of elements in the queue."""
         return len(self.AbdullahAndHaassan)
 
-
+#hi
 queue = Queue()
 #! while loop Test
 while True:
